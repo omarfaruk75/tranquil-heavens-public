@@ -1,0 +1,55 @@
+ [
+    {
+      "id": 1,
+      "estate_title": "Luxury Villa with Ocean View",
+      "segment_name": "Residential",
+      "description": "Experience luxury living in this stunning villa overlooking the ocean. Features spacious rooms, modern amenities, and breathtaking views.",
+      "price": "$2,500,000",
+      "status": "sale",
+      "area": "5000 sq ft",
+      "location": "Malibu, California",
+      "facilities": ["swimming pool", "ocean view terrace", "gourmet kitchen", "home theater"],
+      "image": "https://i.ibb.co/LSYddTs/gallery-1.jpg",
+      "view_property_button": "View Property"
+    },
+    {
+      "id": 2,
+      "estate_title": "Downtown Penthouse",
+      "segment_name": "Residential",
+      "description": "Live in the heart of the city in this luxurious penthouse. Enjoy panoramic views, high-end finishes, and access to top-notch amenities.",
+      "price": "$8,000/month",
+      "status": "rent",
+      "area": "2000 sq ft",
+      "location": "New York City, New York",
+      "facilities": ["rooftop pool", "fitness center", "concierge service", "private elevator"],
+      "image": "https://i.ibb.co/hR7mYKj/gallery-2.jpg",
+      "view_property_button": "View Property"
+    },
+    {
+      "id": 3,
+      "estate_title": "Modern Condo in the Sky",
+      "segment_name": "Residential",
+      "description": "Experience contemporary living in this sleek condo with floor-to-ceiling windows and stunning city views.",
+      "price": "$1,200,000",
+      "status": "sale",
+      "area": "1500 sq ft",
+      "location": "Los Angeles, California",
+      "facilities": ["balcony", "gym", "secure parking", "smart home technology"],
+      "image": "https://i.ibb.co/f8jyx8T/gallery-3.jpg",
+      "view_property_button": "View Property"
+    },
+    {
+      "id": 4,
+      "estate_title": "Seaside Retreat",
+      "segment_name": "Residential",
+      "description": "Escape to this charming seaside retreat featuring a private beach, lush gardens, and cozy interiors.",
+      "price": "$4,500/week",
+      "status": "rent",
+      "area": "3000 sq ft",
+      "location": "Maui, Hawaii",
+      "facilities": ["private beach access", "outdoor dining area", "fire pit", "surfing gear storage"],
+      "image": "https://i.ibb.co/GHG5L1V/gallery-4.jpg",
+      "view_property_button": "View Property"
+    }
+  ]
+ 
